@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [shekharsuman.vercel.app](shekharsuman.vercel.app)
 
-- 💬 Ask me about **react, html, css, js, c , c++**
-
 - 📫 How to reach me **shekharsuman3266@gmail.com**
 
 - ⚡ Fun fact **I am funny😂**
