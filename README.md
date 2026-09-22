@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhar-s93&label=Profile%20views&color=0e75b6&style=flat" alt="shekhar-s93" /> </p>
 
-- 🌱 I’m currently learning **REACT.js, Core Java and Python**
+- 🌱 I’m currently learning **Data Science, Gen A.I, Machine Learning, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [shekharsuman.vercel.app](shekharsuman.vercel.app)
 
